@@ -1,6 +1,6 @@
 class Counter {
   int value = 0;
-  //comentario de prueba
+  //incrementa
   void increment() => value++;
 
   void decrement() => value--;
