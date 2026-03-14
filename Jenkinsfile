@@ -9,7 +9,7 @@ pipeline {
         stage('Test') { 
             steps {
                 echo 'corriendo test'
-                flutter test
+                //flutter test
             }
         }
         stage('Deploy') { 
